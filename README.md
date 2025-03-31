@@ -29,12 +29,12 @@ This project is a deep learning-powered image classifier that can distinguish be
    ```
 
 ### 📦 Dependencies
-- TensorFlow 2.8.1 - Deep learning framework
-- Streamlit 1.22.0 - Web interface
-- NumPy 1.22.4 - Numerical computations
-- Matplotlib 3.5.2 - Visualization
-- Pillow 9.2.0 - Image processing
-- TensorFlow Hub 0.12.0 - Transfer learning
+- TensorFlow 2.13.0 - Deep learning framework
+- Streamlit 1.24.0 - Web interface
+- NumPy 1.24.3 - Numerical computations
+- Matplotlib 3.7.1 - Visualization
+- Pillow 9.5.0 - Image processing
+- TensorFlow Hub 0.14.0 - Transfer learning
 
 ### 💻 System Requirements
 - Python 3.7 or higher
