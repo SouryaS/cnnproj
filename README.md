@@ -67,6 +67,10 @@ dataset/
    - 💾 Save the trained model
 
 ### 🚀 Using the Web Interface
+
+🌐 Try it live: [Cat vs Dog Classifier](https://hi12wq.streamlit.app)
+
+Or run it locally:
 1. Start the Streamlit app:
    ```bash
    streamlit run streamlit_app.py
